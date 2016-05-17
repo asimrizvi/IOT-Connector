@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_iot_connector_event_type">x_iot_connector_event_type</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>EVE</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-05-17 17:30:34</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d05974c0b42312007f44e0d8bb2e6fbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EVE</sys_name>
+        <sys_package display_value="IOT Connector" source="x_iot_connector">cd47f400b42312007f44e0d8bb2e6f21</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IOT Connector">cd47f400b42312007f44e0d8bb2e6f21</sys_scope>
+        <sys_update_name>sys_number_d05974c0b42312007f44e0d8bb2e6fbe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-05-17 17:30:34</sys_updated_on>
+    </sys_number>
+</record_update>
