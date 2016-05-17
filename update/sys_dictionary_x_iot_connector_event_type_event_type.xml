@@ -51,8 +51,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-05-17 17:32:40</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>fe69b4c0b42312007f44e0d8bb2e6fda</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c7ceb4441d2312007f444ad343081e9e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Event Type</sys_name>
         <sys_package display_value="IOT Connector" source="x_iot_connector">cd47f400b42312007f44e0d8bb2e6f21</sys_package>
@@ -60,8 +60,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="IOT Connector">cd47f400b42312007f44e0d8bb2e6f21</sys_scope>
         <sys_update_name>sys_dictionary_x_iot_connector_event_type_event_type</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-17 17:32:40</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2016-05-17 17:54:31</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

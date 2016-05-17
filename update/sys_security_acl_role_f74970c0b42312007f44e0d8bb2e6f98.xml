@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-05-17 17:30:32</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f74970c0b42312007f44e0d8bb2e6f98</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_iot_connector_event_type.x_iot_connector.user</sys_name>
